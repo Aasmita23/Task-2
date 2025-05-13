@@ -16,9 +16,9 @@ Create compelling data visualizations using Power BI to explore business perform
 | View | Screenshot |
 |------|------------|
 | Summary | ![image](https://github.com/Aasmita23/Task-2/blob/main/visuals/Screenshot%202025-05-13%20215704.png) |
-| Sales Performance over the year | ![image](https://github.com/user-attachments/assets/ae40690c-76b5-42ad-a5b9-ff60346493a2) |
-| Geographic Performance | ![image](https://github.com/user-attachments/assets/ff766366-5eb9-45ef-aa64-3a3f422ad96c) |
-| Financial analysis | ![image](https://github.com/user-attachments/assets/f36838cb-0e59-484d-8548-155bf2205add) |
+| Sales Performance over the year | ![image](https://github.com/Aasmita23/Task-2/blob/main/visuals/Screenshot%202025-05-13%20223920.png) |
+| Geographic Performance | ![image](https://github.com/Aasmita23/Task-2/blob/main/visuals/Screenshot%202025-05-13%20224011.png) |
+| Financial analysis | ![image](https://github.com/Aasmita23/Task-2/blob/main/visuals/Screenshot%202025-05-13%20224052.png) |
 
 ## Tools Used
 - Power BI 
