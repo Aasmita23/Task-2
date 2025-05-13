@@ -9,7 +9,8 @@ Create compelling data visualizations using Power BI to explore business perform
 - Total Sales and Profit
 - Sales Trends Over Time
 - Regional & Segment Performance
-- Product wise sales analysis 
+- Product wise sales analysis
+   
   ---
 ## Dashboards Preview
 
